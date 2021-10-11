@@ -1,0 +1,19 @@
+
+#Comandos básicos de GIT!
+
+Para copiar um repositório do GitHub preciso utilizar a função git clone
+
+
+#No terminal do Git Bash:
+
+git clone (URL copiada do GitHub) <Baixa o repósitório para a minha máquina>
+
+Git Staus <Verifica o status do meu repósitório local>
+
+Git add . <Adiciona todos os rquivos>
+
+Git add -a <Ainda não sei>
+
+Git commmit -m "comentário" <Atualiza a versão>
+
+Git push origin main <Envia para o github>
